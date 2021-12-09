@@ -36,10 +36,9 @@ namespace Overloader
    \:\/:/  /     \:\  \        \:\  \        \:\  \        \:\~~\      ~~~~\:\  \    \/_/:/  /  
     \::/  /       \:\__\        \:\__\        \:\__\        \:\__\          \:\__\     /:/  /   
      \/__/         \/__/         \/__/         \/__/         \/__/           \/__/     \/__/    
-                                                
-                                [ Developer : Saurabh Agarwal ]
+                                                                                                                                                                
                                 [ Developer : Blesslin Jerish R ]
-                                    [ Stack : c# .net ]
+                                    [ Stack : c# .net ]                                    
                               ");
             Console.WriteLine("");
             Console.WriteLine("Bonjour Canarys");
